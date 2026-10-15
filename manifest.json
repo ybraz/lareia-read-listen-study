@@ -1,0 +1,10 @@
+{
+  "id": "lareia-read-listen-study",
+  "name": "Lareia Read Listen and Study",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "description": "Sends a note from your vault to Lareia, with its images, to read, listen to and study there. Resending updates the same text. Requires a Lareia account.",
+  "author": "Yuri Braz",
+  "authorUrl": "https://lareia.app",
+  "isDesktopOnly": false
+}
